@@ -1,0 +1,74 @@
+Sean Sekora
+sean@sekora.io | linkedin.com/in/sekora | Greater Pittsburgh Region
+
+SUMMARY
+Senior Software Engineer with 20+ years of experience, specializing in platform engineering and
+AI-accelerated developer tooling. Nearly a decade at Smartsheet, consistently selected for the
+highest-stakes technical initiatives. Deep focus on turning AI from an individual productivity boost
+into an org-wide engineering force multiplier — through MCP integrations, agentic workflows,
+shared tooling ecosystems, and hands-on adoption work.
+
+EXPERIENCE
+
+Smartsheet — Senior Software Engineer II (Jul 2016 – May 2026, Bellevue WA)
+- Co-designed the Solution Orchestrations Service for workspace and project provisioning;
+  leading cross-team onboarding of service providers into the framework.
+- Selected alongside principal engineers and VP of Engineering to define Smartsheet's agentic
+  AI strategy; led evaluation of Claude Code and Windsurf and established workflow standards
+  that reduced the "cold start tax" for codebase onboarding.
+- Built Smartsheet's MCP integration from the ground up, shipping connectors to the Roo Code
+  Marketplace and Claude — positioning Smartsheet as an early enterprise MCP adopter.
+- Led the first datacenter-to-AWS service migration as part of Project Nimbus.
+- Directed Notification Center migration from a legacy service to a new REST-based architecture,
+  leading a squad of four engineers.
+
+Qlinary Inc. — Senior Software Engineer (Apr 2014 – Jul 2016, Los Angeles CA)
+- Led architecture and development of a large-scale restaurant management platform.
+- Stack: Java Play Framework, Ruby on Rails, PostgreSQL, AngularJS, AWS, Heroku.
+- Designed a complex SOA, secured executive buy-in for Play + AWS, and built a custom
+  multi-application security layer.
+
+Philips — Senior Software Engineer, Contract (Jan 2014 – Apr 2014, Pittsburgh PA)
+- Ruby on Rails 3/4, MySQL, RSpec/Cucumber TDD/BDD.
+- Resolved long-standing bugs in flagship medSage product; built an internal call center
+  phone survey application.
+
+Modotech — Programmer/Analyst (Oct 2008 – Jan 2014, PA)
+- Built enterprise software for property/casualty insurance clients.
+- Led architecture of a complex insurance verification system for Nevada's DMV.
+- Stack: ColdFusion, Microsoft SQL, Visual C++.
+
+Citynet — Team Lead & Senior Software Developer (Sep 2005 – Oct 2008, WV)
+- Earned two promotions; led a team of seven developers.
+- Managed enterprise internal apps through full SDLC; earned Employee of the Year.
+- Stack: ColdFusion, Microsoft SQL.
+
+Earlier: Literati — Web Developer (2004–2005); NAFTC/WVU — Assistant IT Specialist (2001–2003)
+
+INDEPENDENT PROJECTS
+
+LocalWhisper.ai — Founder & Creator (Jan 2026 – present)
+- Privacy-first, on-device voice-to-text app built with Flutter, whisper.cpp FFI, Metal GPU
+  acceleration, and a local Qwen3 LLM pipeline. Zero cloud dependency.
+- Using Claude Code as a force multiplier across the full SDLC.
+
+Job Search MCP Server — job-search.sekora.io
+- Personal MCP server exposing job search tooling across Greenhouse, Lever, and Ashby.
+
+ENTREPRENEURIAL
+- NoShow Inc., Technical Co-Founder (AlphaLab Pittsburgh)
+- Profile Passer Inc., Technical Co-Founder (AlphaLab Pittsburgh)
+
+SKILLS & TECHNOLOGY
+Languages:        Java (since 2014), Go, Kotlin, Python, Dart/Flutter, Ruby on Rails, Node.js
+Cloud:            AWS, Kubernetes, Terraform
+AI/Tooling:       MCP, Claude Code, Windsurf, Agentic Workflows, Local LLM Inference
+Architecture:     Microservices, Event-Driven, DDD, CQRS, REST API Design, SOA
+Databases:        PostgreSQL, MySQL, DynamoDB, MongoDB, Cassandra, Redis
+Practices:        CI/CD, TDD, BDD, Agile/Scrum, Pair/Mob Programming
+
+EDUCATION
+West Virginia University — B.S., Computer Engineering (1997–2002)
+
+TOP SKILLS (LinkedIn)
+Developer Tooling | CI/CD | DevEx
